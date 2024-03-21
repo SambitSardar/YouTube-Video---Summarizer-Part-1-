@@ -3,10 +3,9 @@ This is an YouTube Video - Summarizer (Part 1). Here, 'Python' (v3.10.0 &amp; v3
 This programming code is used for generating the best possible summary for a YouTube video, which might be quite a few minutes long.
 
 Output:-
-1.
+
 ![image](https://github.com/SambitSardar/YouTube-Video---Summarizer-Part-1-/assets/128722106/91391ebd-5592-4a5d-8841-aeda2f0f30ea)
 
-2.
 ![image](https://github.com/SambitSardar/YouTube-Video---Summarizer-Part-1-/assets/128722106/3a2df327-1d5b-4fb9-b70f-2bbdb556eb67)
 
 Currently, this code:-
