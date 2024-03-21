@@ -17,3 +17,4 @@ Development in (Part 2):-
  • It will be even more accurate in terms of different types of English.
  • The output generated will be as a whole.
  • There will be the use 'Web Development' to display it as a finished product for public usage.
+ • Translation to user-desired languages. (Not Confirmed!!!)
